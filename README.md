@@ -1,6 +1,6 @@
 # Hi, I'm Dara Ayokunle Obajemu! 👋
 
-### 🚀 Founder & Lead Backend Architect at Healthy Life
+### 🚀 Founder & Lead Backend Architect at DaraLife
 I am a Data-Driven Content Strategist, Backend Developer, and the founder of **[Healthy Life](https://www.daralifewellness.com)**. I specialize in turning complex datasets into growth narratives and engineering robust backend systems using Python and Django to scale digital health and humanitarian ecosystems.
 
 ---
