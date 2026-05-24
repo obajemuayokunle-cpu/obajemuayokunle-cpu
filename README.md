@@ -1,31 +1,37 @@
 # Hi, I'm Dara Ayokunle Obajemu! 👋
 
-### 📊 Data Analyst & Content Strategist 
-I specialize in turning raw data into compelling narratives. By combining 5+ years of copywriting expertise with **Python-based data analysis**, I help brands make informed, creative decisions.
+### 🚀 Founder & Lead Backend Architect at Healthy Life
+I am a Data-Driven Content Strategist, Backend Developer, and the founder of **[Healthy Life](https://www.daralifewellness.com)**. I specialize in turning complex datasets into growth narratives and engineering robust backend systems using Python and Django to scale digital health and humanitarian ecosystems.
 
 ---
 
-### 🐍 Technical Focus: Data Science
-I am currently advancing my technical skills through intensive cohort-based learning, focusing on:
-- **Programming:** Python (Pandas, NumPy, Matplotlib)
-- **Environment:** Google Colab, Jupyter Notebooks
-- **Data Workflow:** Exploratory Data Analysis (EDA), Data Cleaning, and Visualization
-
-### 🚀 Projects & Learning
-- **[Data Science Cohort 16]:** Currently analyzing complex datasets to identify growth patterns and engagement trends.
-- **Content Analytics:** Using Python to measure the ROI of SEO and marketing campaigns.
+### 🛠️ Current Ventures & Projects
+* **[Healthy Life Ecosystem](https://www.daralifewellness.com):** Designing and launching a comprehensive digital health hub that seamlessly integrates e-commerce pipelines, foundation management workflows, and grassroots community healthcare networks.
+* **Health E-Commerce Revenue Audit:** Built an end-to-end data processing and predictive analytics portfolio project, executing advanced Exploratory Data Analysis (EDA) on revenue metrics to scale tech-driven health operations.
+* **Advanced Backend Architectures:** Writing clean, scalable Python/Django logic optimized for production environments and cloud-ready infrastructure.
 
 ---
 
-### 🛠️ My Toolkit
+### 🧰 The Executive Toolkit
+
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Data Analysis** | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| **Growth & SEO** | Ahrefs, SEMrush, Google Search Console, HubSpot |
-| **Writing** | Technical Writing, Conversion Copywriting, Content Strategy |
+| **Backend & Infrastructure** | Python, Django, SQL (BigQuery, PostgreSQL), Git, GitHub |
+| **Data Science & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter/Colab, Advanced EDA |
+| **Growth & Operations** | Content Strategy, Conversion Copywriting, SEO Architecture (Ahrefs, SEMrush) |
 
 ---
 
-### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/dara-obajemu](https://linkedin.com/in/dara-obajemu)
-- **Email:** obajemuayokunle@gmail.com
+### 🐍 Technical Focus & Ongoing Development
+I am aggressively expanding my software engineering footprint through high-impact, production-level development:
+- **Scalable Workflows:** Engineering custom relational databases, secure API logic, and data pipelines.
+- **Data Audits:** Utilizing mathematical and visual libraries to maximize ecosystem user retention and measure growth ROI.
+
+---
+
+### 📫 Strategic Collaborations & Networking
+I am actively scaling operations ahead of major physical health outreach events and expanding our core team. Let's connect for strategic partnerships, health-tech innovation, or data infrastructure:
+
+* **Ecosystem Platform:** [www.daralifewellness.com](https://www.daralifewellness.com)
+* **LinkedIn:** [linkedin.com/in/dara-obajemu](https://linkedin.com/in/dara-obajemu)
+* **Email:** obajemuayokunle@gmail.com
